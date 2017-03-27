@@ -1,31 +1,13 @@
-### <p align="center"><img width="150px" height="150px" src="https://raw.githubusercontent.com/code-kotis/barcode-scanner/master/logo.png"></p>
+Original pull from https://github.com/code-kotis/barcode-scanner
 
-# [QR Code Scanner](https://qrcodescan.in)
-
-*QRCode Scanner - a simple, fast and useful progressive web application*
-
-### [Live](https://qrcodescan.in)
-
-## Features
-
-  - Works offline.
-
-  - Secure via https using [cloudflare free ssl](https://www.cloudflare.com/ssl/)
-
-  - Add to home screen, Splash screen.
-
-  - Fully Responsive.
-
-  - App Shell Architecture - [material design lite](https://www.getmdl.io/)
-
-  - Supported Browser - Google Chrome, Firefox, Opera **(Both Desktop & Mobile)** and now supports iOS as well.
+Image listed in root "QR_WebGL_Proto.jpg" links to WebGL prototype. Print this out/use on phone to trigger scanner. 
 
 ## Installation
 
 1. Clone this repo
 
   ```bash
-  git clone https://github.com/code-kotis/barcode-scanner
+  git clone https://github.com/Team-One/Kiosk-Proto
   ```
 
 2. Installation
@@ -52,8 +34,6 @@
   npm run deploy
   ```
 
-### Contributions
 
-If you find a bug, please file an issue. PR's are most welcome ;)
 
-#### MIT Licensed
+
